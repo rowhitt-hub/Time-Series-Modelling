@@ -1,4 +1,4 @@
-The notebook produces:
+**The notebook produces:**
 
 1. CPI time series plots
 
@@ -10,14 +10,17 @@ The notebook produces:
 
 5. Residual diagnostics
 
-Overview:
+   
+
+**Overview:**
 
 This project performs TSA and forecasting on the US Consumer Price Index(CPI). It fetches macro-economic data from the
 Federal Reserve Economic Data (FRED) API, performs EDA oncluding seasonal decomposition, and is set up to build
 predictive models using ARIMA and SARIMAX.
 
 
-Interesting take from the project:
+
+**Interesting take from the project:**
 
 
 We see that ARIMA has actually outperformed SARIMAX inspite of being a supposedly inferior model. This is due to:
