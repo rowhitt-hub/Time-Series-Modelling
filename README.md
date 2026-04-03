@@ -13,9 +13,7 @@ The notebook produces:
 Overview:
 
 This project performs TSA and forecasting on the US Consumer Price Index(CPI). It fetches macro-economic data from the
-
 Federal Reserve Economic Data (FRED) API, performs EDA oncluding seasonal decomposition, and is set up to build
-
 predictive models using ARIMA and SARIMAX.
 
 
