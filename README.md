@@ -1,9 +1,13 @@
 The notebook produces:
 
 . CPI time series plots
+
 . Seasonal decomposition plots
+
 . Forecast vs actual comparison
+
 . RMSE performance metrics
+
 . Residual diagnostics
 
 Overview:
